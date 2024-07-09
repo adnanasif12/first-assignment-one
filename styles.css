@@ -1,0 +1,77 @@
+@import url('https://fonts.googleapis.com/css2?family=Azeret+Mono:ital,wght@0,100..900;1,100..900&display=swap');
+/* font-family: "Azeret Mono", monospace; */
+
+.top{
+    margin: 0px;
+}
+
+.first-title{
+    display: flex;
+    justify-content: space-between;
+    padding: 50px 150px;
+
+
+}
+.title-name{
+    width: 28px;
+    color: rgba(13, 19, 33, 1);
+}
+
+.btn-primary{
+    height: 50px;
+    width: 150px;
+    padding: 10px;
+    border-radius: 8px;
+    opacity: 80%;
+    color: rgba(13, 19, 33, 1);
+    background-color: white;
+    font-size: bold;
+}
+.background-pic{
+    
+    
+}
+/* background-image */
+
+.background-image{
+    background-image: url(assets/Hero-bg.png);
+    height: 650px;
+    width: 1440;
+    background-repeat: no-repeat;
+    
+}
+.group-image{
+    
+    
+    
+}
+.center-image{
+    padding: 5% 30%;
+    text-align: center;
+}
+.image-heading{
+    text-align: bold;
+    font-size: 35px;
+    color: rgba(13, 19, 33, 1);
+}
+.BG-description{
+    color: rgba(13, 19, 33, 1);
+    font-size: 16px;
+    opacity: 70%;
+
+}
+.btn-color{
+    background-color: rgba(13, 19, 33, 1);
+    color: rgba(255, 255, 255, 1);
+}
+
+.web-development-container{
+    padding: 10%;
+    background-color: rgba(13, 19, 33, 0.02);
+    border-radius: 16px;
+
+}
+.web-development{
+    padding: 10%;
+    text-align: center;
+}
